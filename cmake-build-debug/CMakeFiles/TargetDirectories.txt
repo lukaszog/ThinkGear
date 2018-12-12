@@ -1,0 +1,3 @@
+/home/emotin2/CLionProjects/NeuroSky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/emotin2/CLionProjects/NeuroSky/cmake-build-debug/CMakeFiles/NeuroSky.dir
+/home/emotin2/CLionProjects/NeuroSky/cmake-build-debug/CMakeFiles/edit_cache.dir

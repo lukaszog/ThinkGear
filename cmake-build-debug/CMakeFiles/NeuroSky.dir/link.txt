@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/NeuroSky.dir/main.c.o  -o NeuroSky 
